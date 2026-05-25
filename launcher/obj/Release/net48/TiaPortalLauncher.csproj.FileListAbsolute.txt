@@ -1,0 +1,11 @@
+C:\Users\Li Bin\Desktop\Back_up\launcher\bin\Release\net48\TiaPortalLauncher.exe.config
+C:\Users\Li Bin\Desktop\Back_up\launcher\bin\Release\net48\TiaPortalLauncher.exe
+C:\Users\Li Bin\Desktop\Back_up\launcher\bin\Release\net48\TiaPortalLauncher.pdb
+C:\Users\Li Bin\Desktop\Back_up\launcher\obj\Release\net48\TiaPortalLauncher.csproj.AssemblyReference.cache
+C:\Users\Li Bin\Desktop\Back_up\launcher\obj\Release\net48\TiaPortalLauncher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Li Bin\Desktop\Back_up\launcher\obj\Release\net48\TiaPortalLauncher.AssemblyInfoInputs.cache
+C:\Users\Li Bin\Desktop\Back_up\launcher\obj\Release\net48\TiaPortalLauncher.AssemblyInfo.cs
+C:\Users\Li Bin\Desktop\Back_up\launcher\obj\Release\net48\TiaPortalLauncher.csproj.CoreCompileInputs.cache
+C:\Users\Li Bin\Desktop\Back_up\launcher\obj\Release\net48\TiaPortalLauncher.exe
+C:\Users\Li Bin\Desktop\Back_up\launcher\obj\Release\net48\TiaPortalLauncher.pdb
+C:\Users\Li Bin\Desktop\Back_up\launcher\obj\Release\net48\TiaPortalLauncher.exe.config

@@ -1,0 +1,10 @@
+C:\Users\Li Bin\Desktop\Back_up\uninstaller\bin\Release\net48\Uninstall_TIA_Portal_AutoSave.exe.config
+C:\Users\Li Bin\Desktop\Back_up\uninstaller\bin\Release\net48\Uninstall_TIA_Portal_AutoSave.exe
+C:\Users\Li Bin\Desktop\Back_up\uninstaller\bin\Release\net48\Uninstall_TIA_Portal_AutoSave.pdb
+C:\Users\Li Bin\Desktop\Back_up\uninstaller\obj\Release\net48\Uninstaller.csproj.AssemblyReference.cache
+C:\Users\Li Bin\Desktop\Back_up\uninstaller\obj\Release\net48\Uninstaller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Li Bin\Desktop\Back_up\uninstaller\obj\Release\net48\Uninstaller.AssemblyInfoInputs.cache
+C:\Users\Li Bin\Desktop\Back_up\uninstaller\obj\Release\net48\Uninstaller.AssemblyInfo.cs
+C:\Users\Li Bin\Desktop\Back_up\uninstaller\obj\Release\net48\Uninstaller.csproj.CoreCompileInputs.cache
+C:\Users\Li Bin\Desktop\Back_up\uninstaller\obj\Release\net48\Uninstall_TIA_Portal_AutoSave.exe
+C:\Users\Li Bin\Desktop\Back_up\uninstaller\obj\Release\net48\Uninstall_TIA_Portal_AutoSave.pdb

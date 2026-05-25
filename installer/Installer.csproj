@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net48</TargetFramework>
+    <LangVersion>8.0</LangVersion>
+    <AssemblyName>博途自动保存工具_安装程序</AssemblyName>
+    <RootNamespace>Installer</RootNamespace>
+    <ApplicationIcon>favicon.ico</ApplicationIcon>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="Microsoft.CSharp" />
+    <EmbeddedResource Include="files\TiaPortalAutoSave.exe" />
+    <EmbeddedResource Include="files\TiaPortalLauncher.exe" />
+    <EmbeddedResource Include="files\favicon.ico" />
+  </ItemGroup>
+</Project>

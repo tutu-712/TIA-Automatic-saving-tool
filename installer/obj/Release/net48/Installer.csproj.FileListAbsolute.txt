@@ -1,0 +1,11 @@
+C:\Users\Li Bin\Desktop\Back_up\installer\obj\Release\net48\Installer.csproj.AssemblyReference.cache
+C:\Users\Li Bin\Desktop\Back_up\installer\obj\Release\net48\Installer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Li Bin\Desktop\Back_up\installer\obj\Release\net48\Installer.AssemblyInfoInputs.cache
+C:\Users\Li Bin\Desktop\Back_up\installer\obj\Release\net48\Installer.AssemblyInfo.cs
+C:\Users\Li Bin\Desktop\Back_up\installer\obj\Release\net48\Installer.csproj.CoreCompileInputs.cache
+C:\Users\Li Bin\Desktop\Back_up\installer\bin\Release\net48\博途自动保存工具_安装程序.exe.config
+C:\Users\Li Bin\Desktop\Back_up\installer\bin\Release\net48\博途自动保存工具_安装程序.exe
+C:\Users\Li Bin\Desktop\Back_up\installer\bin\Release\net48\博途自动保存工具_安装程序.pdb
+C:\Users\Li Bin\Desktop\Back_up\installer\obj\Release\net48\博途自动保存工具_安装程序.exe
+C:\Users\Li Bin\Desktop\Back_up\installer\obj\Release\net48\博途自动保存工具_安装程序.pdb
+C:\Users\Li Bin\Desktop\Back_up\installer\obj\Release\net48\博途自动保存工具_安装程序.exe.config
